@@ -62,8 +62,7 @@ public class User {
 
 	@Override
 	public String toString() {
-		return "User [name=" + name + ", age=" + age + ", address=" + address + ", classz=" + classz + ", classz2="
-				+ classz2 + "]";
+		return null;
 	}
 
 }
